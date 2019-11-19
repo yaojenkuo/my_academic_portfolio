@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "4025756517",
     "id" : "F1096094",
-    "lastKnownWriteTime" : 1574153667,
-    "last_content_update" : 1574153667608,
+    "lastKnownWriteTime" : 1574153945,
+    "last_content_update" : 1574153945643,
     "path" : "~/my_academic_portfolio/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "18,3",
-        "scrollLine" : "1"
+        "cursorPosition" : "11,12",
+        "scrollLine" : "2"
     },
     "read_only" : false,
     "read_only_alternatives" : [
