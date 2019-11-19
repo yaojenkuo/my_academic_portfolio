@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574148896322.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "61A1F26B",
+    "lastKnownWriteTime" : 1574148722,
+    "last_content_update" : 1574148722,
+    "path" : "~/my_academic_portfolio/content/authors/admin/_index.md",
+    "project_path" : "content/authors/admin/_index.md",
+    "properties" : {
+        "cursorPosition" : "40,12",
+        "scrollLine" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
